@@ -77,3 +77,27 @@ $b->tampilWarna();
 ?>
 ```
 ![Screenshot 2023-12-05 105146](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/a2475cac-8ff1-4228-b384-c996c599e9c2)
+
+## Class Library
+Class library merupakan pustaka kode program yang dapat digunakan bersama pada beberapa
+file yang berbeda (konsep modularisasi). Class library menyimpan fungsi-fungsi atau class
+object komponen untuk memudahkan dalam proses development aplikasi.
+
+### Contoh class library untuk membuat form.
+Buat file baru dengan nama form.php
+```
+<?php
+/**
+* Program memanfaatkan Program 10.2 untuk membuat form inputan sederhana.
+**/
+include "form.php";
+echo "<html><head><title>Mahasiswa</title></head><body>";
+$form = new Form("","Input Form");
+$form->addField("txtnim", "Nim");
+$form->addField("txtnama", "Nama");
+$form->addField("txtalamat", "Alamat");
+echo "<h3>Silahkan isi form berikut ini :</h3>";
+$form->displayForm();
+echo "</body></html>";
+?>
+```
