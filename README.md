@@ -268,6 +268,7 @@ class Database
 > - `Home.php`
 
 
+
 > - `About.php`
 ![Screenshot 2023-12-26 192317](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/3e2b369b-27fe-4d28-b258-ba84bca42d6e)
 
@@ -289,7 +290,7 @@ class Database
 
 
 > - `hapus.php`
-![10](https://github.com/syifaaurellia/Lab10web/assets/115867244/f35526b2-4991-4222-8db6-c932d231f70f)
+
 
 
 ## Selesai, Terima Kasih
