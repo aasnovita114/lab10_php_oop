@@ -145,7 +145,8 @@ echo "</body></html>";
 ?>
 ```
 > Output :
-![2](https://github.com/syifaaurellia/Lab10web/assets/115867244/467976b5-05ee-4a97-abc9-a71333cbd076)
+![Screenshot 2023-12-26 191958](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/437db00f-a7ef-4f86-961f-8c7ec8df6b13)
+
 
 4. Buat file dengan nama `database.php`
 ```
@@ -265,23 +266,27 @@ class Database
 -> **Output Tugas :**
 
 > - `Home.php`
-![3](https://github.com/syifaaurellia/Lab10web/assets/115867244/c2ae9a2a-a67f-40bc-a260-8a5fabc9684d)
+
 
 > - `About.php`
-![4](https://github.com/syifaaurellia/Lab10web/assets/115867244/34802df5-31d2-4be8-8c9f-7b105c1af868)
+![Screenshot 2023-12-26 192317](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/3e2b369b-27fe-4d28-b258-ba84bca42d6e)
+
 
 > - `Kontak.php`
-![5](https://github.com/syifaaurellia/Lab10web/assets/115867244/fac8acc8-6690-4906-bd5a-55233615a092)
+![Screenshot 2023-12-26 193929](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/8cbbadd5-f5dc-4c93-b0c3-ac46daa6491b)
+
 
 > - `tambah.php`
-![6](https://github.com/syifaaurellia/Lab10web/assets/115867244/7015596c-1b30-43eb-befc-b4e73f1681ed)
+![tambah](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/0ef63832-65a3-4f1c-90af-ef485c587609)
 
-![7](https://github.com/syifaaurellia/Lab10web/assets/115867244/f2b5aa34-cb04-4eec-a820-7cb823c77b5f)
+
+
 
 > - `ubah.php`
-![8](https://github.com/syifaaurellia/Lab10web/assets/115867244/4e52a2d6-65f2-43ee-a965-ef1852bd065f)
+![ubah](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/55295803-9a9b-4c11-852e-aadf3f908ce6)
 
-![9](https://github.com/syifaaurellia/Lab10web/assets/115867244/f651c042-02a9-4a90-81b4-5e41d0813c94)
+
+
 
 > - `hapus.php`
 ![10](https://github.com/syifaaurellia/Lab10web/assets/115867244/f35526b2-4991-4222-8db6-c932d231f70f)
