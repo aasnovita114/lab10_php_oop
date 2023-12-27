@@ -293,7 +293,6 @@ class Database
 
 
 
-
 > - `hapus.php`
 ![Screenshot 2023-12-27 092936](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/86cb3ec7-eb10-4564-9d53-a514b701d54f)
 
