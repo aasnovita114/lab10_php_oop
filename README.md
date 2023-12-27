@@ -266,11 +266,12 @@ class Database
 -> **Output Tugas :**
 
 > - `Home.php`
+![Screenshot 2023-12-27 092112](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/26f0ac0b-3332-41c1-9fe3-442aeb4035af)
 
 
 
 > - `About.php`
-![Screenshot 2023-12-26 192317](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/3e2b369b-27fe-4d28-b258-ba84bca42d6e)
+![Screenshot 2023-12-27 092428](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/8e8f97a4-f8e9-4259-804d-0f87aab851a0)
 
 
 > - `Kontak.php`
@@ -278,18 +279,23 @@ class Database
 
 
 > - `tambah.php`
-![tambah](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/0ef63832-65a3-4f1c-90af-ef485c587609)
+![Screenshot 2023-12-27 092758](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/e2e67ab6-d41d-48c9-bd5e-6e44b1bbe024)
 
+![Screenshot 2023-12-27 092810](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/2e2ee440-226f-4ec4-82bb-4733cba51313)
 
 
 
 > - `ubah.php`
-![ubah](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/55295803-9a9b-4c11-852e-aadf3f908ce6)
+![Screenshot 2023-12-27 092849](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/be5fe87f-5125-4db2-ac47-7683726a8193)
+
+![Screenshot 2023-12-27 092900](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/a558a47a-5db0-4418-8bbb-d9f4cc574cc7)
+
 
 
 
 
 > - `hapus.php`
+![Screenshot 2023-12-27 092936](https://github.com/aasnovita114/lab10_php_oop/assets/116045324/86cb3ec7-eb10-4564-9d53-a514b701d54f)
 
 
 
